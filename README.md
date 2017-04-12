@@ -1,6 +1,6 @@
 # VSCode Mac Workbench Theme
 
-An example of using the new [workbench theming](https://code.visualstudio.com/updates/v1_11#_preview-workbench-theming) support in [Version 1.11](https://code.visualstudio.com/updates/v1_11).
+A macOS-inspired example of using the new [workbench theming](https://code.visualstudio.com/updates/v1_11#_preview-workbench-theming) support in [Version 1.11](https://code.visualstudio.com/updates/v1_11).
 
 ## Usage
 
