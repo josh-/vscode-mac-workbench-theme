@@ -4,7 +4,7 @@ A macOS-inspired example of using the new [workbench theming](https://code.visua
 
 ## Usage
 
-Insert the contents of `settings.json` into your User `settings.json`, which can be found by going to 'Preferences > Settings' or editing the file at the following paths:
+Insert the contents of [`settings.json`](settings.json) into your User `settings.json`, which can be found by going to 'Preferences > Settings' or editing the file at the following paths:
 
 - Windows: `%APPDATA%\Code\User\`
 - Mac: `~/Library/Application Support/Code/User/`
