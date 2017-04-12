@@ -1,0 +1,45 @@
+{
+    "workbench.experimental.colorCustomizations": {
+        "editorBackground": "#FFFFFF",
+        "editorCursor": "#073642",
+        "editorWhitespaces": "#F5F5F5",
+        "editorLineHighlight": "#F9F9F9",
+        "editorSelection": "#B3D8FD",
+
+        "sideBarBackground": "#F0F0F0",
+        "sideBarTitleForeground": "#93A1A1",
+        "activityBarBackground": "#DBDBDB",
+        "activityBarDragAndDropBackground": "#DBDBDB",
+        "activityBadgeBackground": "#F84843",
+        "editorFindWidgetBackground": "#F9F9F9",
+        "inputBoxBackground": "#FFFFFF",
+        "inputBoxForeground": "#93A1A1",
+        "inputBoxActiveOptionBorder": "#96C3F1",
+        "focusedElementOutline": "#96C3F1",
+        "titleBarActiveBackground": "#D8D8D8",
+        "titleBarInactiveBackground": "#F6F6F6",
+        "statusBarForeground": "#363636",
+        "statusBarBackground": "#DADADA",
+        "statusBarDebuggingBackground": "#DADADA",
+        "statusBarNoFolderBackground": "#DADADA",
+        "activeTabActiveGroupForeground": "#363636",
+        "activeTabBackground": "#D0D0D0",
+        "inactiveTabActiveGroupForeground": "#93A1A1",
+        "inactiveTabBackground": "#B9B9B9",
+        "tabsContainerBackground": "#B9B9B9",
+        "tabBorder": "#9B9B9B",
+        "activeTabInactiveGroupForeground": "#93A1A1",
+        "inactiveTabInactiveGroupForeground": "#93A1A1",
+        "debugToolBarBackground": "#D0D0D0",
+        "dropdownBackground": "#F9F9F9",
+        "dropdownBorder": "#AEAEAE",
+
+        "peekViewResultsBackground": "#F0F0F0",
+        "peekViewTitleBackground": "#F0F0F0",
+        "peekViewEditorMatchHighlight": "#7744AA40",
+        "editorHoverBackground": "#F0F0F0",
+
+        "statusBarItemActiveBackground": "#363636",
+        "statusBarInfoItemBackground": "#67981A"
+    }
+}
