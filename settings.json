@@ -1,5 +1,5 @@
 {
-    "workbench.experimental.colorCustomizations": {
+    "workbench.colorCustomizations": {
         "editorBackground": "#FFFFFF",
         "editorCursor": "#073642",
         "editorWhitespaces": "#F5F5F5",
